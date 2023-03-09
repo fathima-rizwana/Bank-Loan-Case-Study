@@ -15,3 +15,6 @@ When a client applies for a loan, there are four types of decisions that could b
 **Cancelled:** The client cancelled the application sometime during approval. Either the client changed her/his mind about the loan or in some cases due to a higher risk of the client he received worse pricing which he did not want.<br>
 **Refused:** The company had rejected the loan (because the client does not meet their requirements etc.).<br>
 **Unused Offer:** Loan has been cancelled by the client but on different stages of the process.
+
+**Dataset**
+Datasets can be downloaded from the link https://drive.google.com/drive/folders/1Mcvc5tJGvgJK8UetCtY1VnMYoVOMzaAe
